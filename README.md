@@ -14,7 +14,7 @@ npm i -g decentraland
 
 **Initialize a new scene**
 
-Create a new project folder, then in your terminal type:
+Create a new project folder, then navigate to it in your terminal and type:
 
 ```bash
 dcl init
