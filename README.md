@@ -1,6 +1,6 @@
-# Decentraland scene
+# Zesty Banner Decentraland Test Scene
 
-This folder contains all the necessary files to launch a Decentraland scene.
+This repository contains the most basic example of integrating the Zesty Banner smart item into a scene built with the Decentraland SDK.
 
 ## Try it out
 
@@ -11,6 +11,16 @@ Download and install the Decentraland CLI by running the following command:
 ```bash
 npm i -g decentraland
 ```
+
+**Initialize a new scene**
+
+Create a new project folder, then in your terminal type:
+
+```bash
+dcl init
+```
+
+This will allow you to quickly bootstrap a new Decentraland project. Choose "Scene" from the list of options, then use the arrow keys to move down to the "Paste a repository URL" option. Select this, then enter the URL of this repository to bootstrap the scene.
 
 **Previewing the scene**
 
